@@ -1,0 +1,25 @@
+body{
+    background-image: url('bg.jpg'); 
+    background-repeat: no-repeat; 
+    background-size: cover; 
+    background-position: center; 
+    height: 100vh; 
+    margin: 0; 
+    display: flex;
+    justify-content: center;
+    text-align: center;
+    font-family: cursive;
+    color: azure;
+    font-size: x-large;
+ 
+}
+
+.inp input{
+    padding: 15px;
+    font-size: larger;
+    font-family: cursive;
+    border-radius: 15px;
+    color: black;
+    border-color: solid cadetblue;
+}
+
